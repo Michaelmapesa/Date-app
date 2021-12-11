@@ -3,7 +3,7 @@ By Michael Mapesa Wanzala
 
 ## Project name
 
-Portfolio
+Akan Name Recognition App
 
 ## Figma Design
 
