@@ -1,8 +1,8 @@
 body{
-    background-color:  rgba(255, 255, 128, .5);
+    background-color: #eeeee4;
 }
 card{
-    background-color: whitesmoke;
+    background-color: #F0F0E1;
     text-align: center;
 }
 #uname{
@@ -14,4 +14,10 @@ label{
 }
 #title2{
     margin-left: 98px;
+}
+button{
+    margin-left: 100px;
+}
+#title1{
+    margin-left: 20px;
 }
