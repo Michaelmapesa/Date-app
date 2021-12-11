@@ -33,7 +33,8 @@ Akan Name Recognition App
 
 * Html and Css materialize.
 * W3 Shool bootstrap 5.
-* Bootstrap 5 guidance. 
+* Bootstrap 5 guidance.
+* Javascript reference online materials. 
 
 ## License
 
