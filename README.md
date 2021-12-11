@@ -27,6 +27,7 @@ Akan Name Recognition App
  * HTML3
  * CSS5
  * BOOTSTRAP
+ * Javascript
 
 ## Reference
 
