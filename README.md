@@ -27,6 +27,8 @@ Linked-Michael Mapesa.
 2. Install  web browser
 3. Install Git.
 
+## BDD
+
 ## Technology used
 
  * HTML3
