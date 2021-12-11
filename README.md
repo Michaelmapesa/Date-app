@@ -7,12 +7,12 @@ Akan Name Recognition App
 
 ## Figma Design
 
-https://www.figma.com/file/kOqRztZfViq38UghRMhu1O/Portfolio?node-id=0%3A1
+
 
 ## Description
 
- It is a personal portfolio website that gives my CV, it includes attractive images,nice colors
- hence it is well styled and interactive.
+ This is an application that allow the user to enter user's birthday and calculates the day of 
+ the week they were born, and then depending on their gender outputs their Akan Name. 
 
 ## Installation process
 
