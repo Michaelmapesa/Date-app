@@ -1,10 +1,7 @@
-//var day=document.getElementById("uname1").submit();
-//var gender=document.getElementById("uname").submit();
-//function myFunction() {
-  //  document.getElementById("form1").submit();
-  //}
 
-  var day=parseInt(d.getDay(document.getElementById("uname1")));
+  
+  var d= new Date();
+  var day=d.getDay(document.getElementById("uname1"));
   var gender=document.getElementById("uname");
   var a=male;
   var b=female;
