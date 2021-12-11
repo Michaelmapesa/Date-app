@@ -5,11 +5,13 @@
   //}
  
   const submit = document.getElementById('submit');
-  const day=document.getElementById("uname1")
+  let day=document.getElementById("uname1");
+  let gender=document.getElementById("uname");
+  var Yaw;
 
-submit.addEventListener('click', function() {
-    alert(day.value) //returns a string to parse use .parseFloat
-})
+submit.addEventListener('click', function(){
+ if (day.value==07/01/1993)
+     alert("Yaw")
+}
   
     
-  
