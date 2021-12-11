@@ -16,30 +16,39 @@
     <title>Document</title>
 </head>
 <body>
-    <div class="container-fluid">
+    <div class="container">
+        <br><br>
         <div class="card">
             <p class="h2">Date Recognition App</p>
 
             <p>
-                This is an application that allow the user to enter user's birthday and calculates the day of <br>
+                Hey there!,feeling like doing some computation on your birthday,here you are.This is an application that allow the user to enter user's birthday and calculates the day of 
                 theweek they were born and then depending on their gender outputs their Akan Name. 
             </p>
     
         </div>  
+        <br><br><br>
         <div class="card">
-             <form action="" class="needs validation,valid-feedback,invalid-feedback">
-                 <label for="date" class="form-label">Date Of Birth</label>
-                 <input type="Date" id="uname" class="form-control"  >
+               <div class="card-title">
+                <h5 class="card-title">Computation</h5>
+               </div>
 
+             <form action="" class="needs validation,valid-feedback,invalid-feedback">
+                <div class="mb-3 mt-3">
+                    <label for="date" class="form-label">Date Of Birth</label>
+                    <input type="Date" id="uname" class="form-control" date="uname" required>
+                    <div class="valid-feedback">Valid.</div>
+                    <div class="invalid-feedback">Please fill out this field.</div>
+                </div>
                  
-              <div class="mb-3 mt-3">
-                 <label for="gender">Gender</label>
-                 <input type="text" class="form-control" id="uname" placeholder="input your gender male/female"
-                 gender="uname" required>
-                 <div class="valid-feedback">Valid.</div>
-                  <div class="invalid-feedback">Please fill out this field.</div>
-              </div>
-              <button type="submit" class="btn btn-primary">Submit</button>
+                <div class="mb-3 ">
+                    <label for="pswd">Gender</label>
+                    <input type="text" class="form-control" id="uname" placeholder="input your gender male/female"
+                     gender="uname" required>
+                     <div class="valid-feedback">Valid.</div>
+                    <div class="invalid-feedback">Please fill out this field.</div>
+                </div>
+                     <button type="submit" class="btn btn-primary">Submit</button>
 
              </form>
         </div>
