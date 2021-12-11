@@ -36,6 +36,11 @@ Linked-Michael Mapesa.
  * BOOTSTRAP
  * Javascript
 
+ ## Contact
+
+ * Email@michaelmapesa93@gmail.com
+ * +254769178851
+
 ## Reference
 
 * Html and Css materialize.
