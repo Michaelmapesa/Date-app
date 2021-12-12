@@ -4,7 +4,7 @@ body{
 card{
     background-color: #F0F0E1;
     text-align: center;
-    border: 2px solid #F0F0E1;
+    border: 3px solid #F0F0E1;
 }
 #uname,#uname1{
     width: 80%;
@@ -16,12 +16,14 @@ label{
 #title2{
     margin-left: 98px;
     color: blue;
+    font-weight: bold;
 }
 button{
     margin-left: 100px;
 }
 #title1{
     margin-left: 20px;
+    font-weight: bold;
 }
 .h2{
     color: blue;
