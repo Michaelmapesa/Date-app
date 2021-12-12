@@ -7,7 +7,7 @@ Akan Name Recognition App
 
 ## Figma Design
 
-https://www.figma.com/file/DoLfqKsAUXzh6yHky41axk/Name-App?node-id=0%3A1
+https://www.figma.com/file/DoLfqKsAUXzh6yHky41axk/Name-App?node-id=1%3A2
 
 ## Authors Info
 
