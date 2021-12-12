@@ -15,11 +15,30 @@
 
     <title>Document</title>
 </head>
-<body>
+
+<!-- The scrollable area -->
+<body data-bs-spy="scroll" data-bs-target=".navbar" data-bs-offset="50">
+    <nav class="navbar navbar-expand-sm bg-dark navbar-dark fixed-top" >
+        <div class="container-fluid">
+          <ul class="navbar-nav">
+            <li class="nav-item" id="item">
+              <a class="nav-link" href="#section1">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#section2">About</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#section3">Contact</a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+      
+
     <!----Section1-->
-   <div class="section1">
+   <div class="section1" id="section1">
     <div class="container">
-        <br><br>
+        <br><br><br><br>
         <div class="card" id="title1">
             <br>
             <p class="h2" id="title1">Akan Name Recognition App</p>
@@ -62,10 +81,10 @@
    </div>
 
    <!-----section2------>
-   <div class="section2">
+   <div class="section2" id="section2">
      <div class="container" >
         <div class="card" id="list">
-            <br><br>
+            <br><br><br><br>
             <p class="h2" id="title2">About Us</p>
             <p id="title1">Most people do know when their birthdays are, but some might not know what day of the week they were born. Luckily for us, <br>
                  there are ways to calculate the day of the week from a specific date.And result come in relation to the Akan name of Ghana community,<br>
@@ -111,9 +130,9 @@
    </div>
   
    <!----Section3--->
-   <div class="section3">
+   <div class="section3" id="section3">
        <div class="container">
-           <br><br>
+           <br><br><br><br>
            <p class="h2" id="title2">Contact Us</p>
            <p>Feel free to contant us by feeling the form below and submitting to us</p>
            <div class="card" id="footer">
