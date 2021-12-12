@@ -7,6 +7,8 @@ Akan Name Recognition App
 
 ## Figma Design
 
+https://www.figma.com/file/DoLfqKsAUXzh6yHky41axk/Name-App?node-id=0%3A1
+
 ## Authors Info
 
 Slack profile-Michael Mapesa
