@@ -29,6 +29,8 @@ Linked-Michael Mapesa.
 
 ## BDD
 
+ https://docs.google.com/document/d/1Ih5XML3Diw3tMxnFHZNC5AHLWkrW9Y2VrAAp7UhNujI/edit?usp=sharing
+
 ## Technology used
 
  * HTML3
