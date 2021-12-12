@@ -1,5 +1,6 @@
 body{
     background-color: #eeeee4;
+    position: relative;
 }
 card{
     background-color: #F0F0E1;
@@ -9,6 +10,9 @@ card{
 #uname,#uname1{
     width: 80%;
     margin-left: 100px;
+}
+#item{
+    text-align: center;
 }
 label{
     margin-left: 100px;
