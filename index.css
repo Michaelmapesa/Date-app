@@ -25,6 +25,10 @@ label{
 button{
     margin-left: 100px;
 }
+.form-select{
+    margin-left: 100px;
+    width: 80%;
+}
 #title1{
     margin-left: 20px;
     font-weight: bold;
