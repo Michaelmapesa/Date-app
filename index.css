@@ -47,3 +47,7 @@ button{
     text-align: center;
     font-size: xx-small;
 }
+.form-select{
+    margin-left: 100px;
+    width: 80%;
+}
